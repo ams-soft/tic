@@ -1,0 +1,17 @@
+.claude
+.idea
+sandbox*
+*.log
+*.tmp
+*.bak
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.test
+*.out
+vendor/
+go.work
